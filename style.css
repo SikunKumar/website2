@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.carousel-inner .carousel-item > img{
+    height: 80vh;
+
+}
+
+.accordion-item{
+    padding-top: 10px;
+}
+.card-body img{
+    min-width: 50%;
+    max-height: 200px;
+}
